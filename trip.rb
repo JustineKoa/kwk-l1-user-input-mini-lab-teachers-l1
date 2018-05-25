@@ -6,6 +6,6 @@ sites = gets.chomp
 puts "What food would you like to eat?"
 eat = gets.chomp
 puts "How many nights would you like to stay?"
-num_nights = gets.chomp
+nights = gets.chomp
 
-puts "You want to go to #{stay} to visit #{sites}. The foods you would like to eat are #{eat}. Your trip will last #{num_nights} nights."
+puts "You want to go to #{stay} to visit #{sites}. The foods you would like to eat are #{eat}. Your trip will last #{nights} nights."
