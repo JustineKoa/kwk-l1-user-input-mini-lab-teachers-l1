@@ -1,6 +1,6 @@
 # Code your prompts here!
 puts "Where would you like to stay?"
-stay = gets.chomp.captialize
+stay = gets.chomp.capitalize
 puts "What sites would you like to visit?"
 sites = gets.chomp
 puts "What food would you like to eat?"
